@@ -91,13 +91,3 @@
 </div>
 
 ###
-
-<h3 data-importer="text" align="left"></h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=zihadzafarzisan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
